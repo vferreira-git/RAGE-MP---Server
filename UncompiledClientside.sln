@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gf_login", "gf_login\gf_login.csproj", "{283D3A57-E538-40A8-898A-19BF6895CECD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gf_character", "gf_character\gf_character.csproj", "{F1B0B021-3181-42EA-A069-7E5E90E1BB26}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gf_notification", "gf_notification\gf_notification.csproj", "{1FDC14DA-685E-4162-9B20-A00E35FBA94F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gf_cameras", "gf_cameras\gf_cameras.csproj", "{EE4208CA-805E-4616-AA5F-C1CFC8C9DFCB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gf_buildings", "gf_buildings\gf_buildings.csproj", "{8831D017-166D-413E-884E-D975F641452A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gf_inventory", "gf_inventory\gf_inventory.csproj", "{3680B497-564D-4A12-A8FC-B18A21029730}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gf_main", "gf_main\gf_main.csproj", "{83D032AD-042F-4EBB-948F-1E5BE9A29A85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{283D3A57-E538-40A8-898A-19BF6895CECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283D3A57-E538-40A8-898A-19BF6895CECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283D3A57-E538-40A8-898A-19BF6895CECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283D3A57-E538-40A8-898A-19BF6895CECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1B0B021-3181-42EA-A069-7E5E90E1BB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B0B021-3181-42EA-A069-7E5E90E1BB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B0B021-3181-42EA-A069-7E5E90E1BB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B0B021-3181-42EA-A069-7E5E90E1BB26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FDC14DA-685E-4162-9B20-A00E35FBA94F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FDC14DA-685E-4162-9B20-A00E35FBA94F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FDC14DA-685E-4162-9B20-A00E35FBA94F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FDC14DA-685E-4162-9B20-A00E35FBA94F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE4208CA-805E-4616-AA5F-C1CFC8C9DFCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4208CA-805E-4616-AA5F-C1CFC8C9DFCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4208CA-805E-4616-AA5F-C1CFC8C9DFCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4208CA-805E-4616-AA5F-C1CFC8C9DFCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8831D017-166D-413E-884E-D975F641452A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8831D017-166D-413E-884E-D975F641452A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8831D017-166D-413E-884E-D975F641452A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8831D017-166D-413E-884E-D975F641452A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3680B497-564D-4A12-A8FC-B18A21029730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3680B497-564D-4A12-A8FC-B18A21029730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3680B497-564D-4A12-A8FC-B18A21029730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3680B497-564D-4A12-A8FC-B18A21029730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83D032AD-042F-4EBB-948F-1E5BE9A29A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D032AD-042F-4EBB-948F-1E5BE9A29A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D032AD-042F-4EBB-948F-1E5BE9A29A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D032AD-042F-4EBB-948F-1E5BE9A29A85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F619A52B-69B2-492D-AC7A-98563D0E896E}
+	EndGlobalSection
+EndGlobal
